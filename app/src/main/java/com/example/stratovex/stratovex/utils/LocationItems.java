@@ -1,4 +1,4 @@
-package utils;
+package com.example.stratovex.stratovex.utils;
 
 
 import java.io.Serializable;
