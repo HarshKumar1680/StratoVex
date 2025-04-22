@@ -1,5 +1,4 @@
-package com.example.stratovex;
-
+package com.example.stratovex.activities;
 
 
 import android.content.Intent;
